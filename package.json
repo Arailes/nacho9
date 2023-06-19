@@ -3,6 +3,7 @@
     "@uniswap/sdk-core": "^3.2.4",
     "@uniswap/v3-sdk": "^3.9.0",
     "ethers": "^5.7.2",
+    "prompt-sync": "^4.2.0",
     "web3": "^4.0.1"
   }
 }
